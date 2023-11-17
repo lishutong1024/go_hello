@@ -1,3 +1,3 @@
-module hello
+module go_hello
 
 go 1.21.4
